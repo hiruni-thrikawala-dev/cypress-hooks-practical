@@ -1,1 +1,3 @@
-# cypress-hooks-practical
+# Cypress Hooks Practical
+
+Learning and testing Cypress hooks.
